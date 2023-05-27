@@ -1,0 +1,8 @@
+5 7
+"New York" "Los Angeles" 4500
+"New York" "Chicago" 800
+"Chicago" "Los Angeles" 4000
+"Chicago" "Houston" 1500
+"Los Angeles" "Houston" 2300
+"Houston" "Phoenix" 1200
+"Phoenix" "Los Angeles" 500
