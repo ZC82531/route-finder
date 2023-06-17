@@ -1,0 +1,28 @@
+/Users/zc/Desktop/Graph Project/GraphApp/bin/Debug/net8.0/GraphApp
+/Users/zc/Desktop/Graph Project/GraphApp/bin/Debug/net8.0/GraphApp.deps.json
+/Users/zc/Desktop/Graph Project/GraphApp/bin/Debug/net8.0/GraphApp.runtimeconfig.json
+/Users/zc/Desktop/Graph Project/GraphApp/bin/Debug/net8.0/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp/bin/Debug/net8.0/GraphApp.pdb
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.AssemblyInfoInputs.cache
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.AssemblyInfo.cs
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.csproj.CoreCompileInputs.cache
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/refint/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.pdb
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/GraphApp.genruntimeconfig.cache
+/Users/zc/Desktop/Graph Project/GraphApp/obj/Debug/net8.0/ref/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp test/bin/Debug/net8.0/GraphApp
+/Users/zc/Desktop/Graph Project/GraphApp test/bin/Debug/net8.0/GraphApp.deps.json
+/Users/zc/Desktop/Graph Project/GraphApp test/bin/Debug/net8.0/GraphApp.runtimeconfig.json
+/Users/zc/Desktop/Graph Project/GraphApp test/bin/Debug/net8.0/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp test/bin/Debug/net8.0/GraphApp.pdb
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.AssemblyInfoInputs.cache
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.AssemblyInfo.cs
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.csproj.CoreCompileInputs.cache
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/refint/GraphApp.dll
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.pdb
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/GraphApp.genruntimeconfig.cache
+/Users/zc/Desktop/Graph Project/GraphApp test/obj/Debug/net8.0/ref/GraphApp.dll
