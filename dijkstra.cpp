@@ -9,7 +9,7 @@
 #include <cstring>
 #include <string>
 
-// All edges are directed, so distance to both routes must be specified, and any mentioned blocks in terminal will be for the order specified.
+// The represented graph will be a directed graph
 
 extern "C" {
     void FindShortestPath(const char* start, const char* end, char* path, int* distance) {
